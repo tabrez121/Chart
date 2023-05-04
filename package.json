@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "chart.js": "^3.5.1",
+    "chartjs": "^0.3.24",
+    "chartjs-node-canvas": "^4.1.6",
+    "d3": "^7.8.2",
+    "d3-node": "^3.0.0",
+    "d3-svg-to-png": "^0.3.1",
+    "esm": "*",
+    "express": "^4.18.2",
+    "express-handlebars": "^7.0.2",
+    "jsdom": "^21.1.1",
+    "nodemon": "^2.0.22",
+    "svg2png": "^4.1.1",
+    "xmlserializer": "^0.6.1"
+  }
+}
